@@ -8,11 +8,12 @@
 	"buffers":
 	[
 		{
-			"file": "src/main.cpp",
+			"file": "/media/douglas/B056-729D/seplugins/brightpad/config_brightpad.txt",
 			"settings":
 			{
-				"buffer_size": 215,
-				"line_ending": "Unix"
+				"buffer_size": 184,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -80,6 +81,7 @@
 	],
 	"file_history":
 	[
+		"/home/douglas/.cache/.fr-BfIBRT/128094_Brightpadv5/seplugins/config_brightpad.txt",
 		"/home/douglas/get-pip.py",
 		"/home/douglas/Programação/Arduino/ProjetoRobo a/src/main.cpp",
 		"/home/douglas/Programação/Arduino/ProjetoRobo a/lib/readme.txt",
@@ -127,24 +129,24 @@
 			[
 				{
 					"buffer": 0,
-					"file": "src/main.cpp",
-					"semi_transient": true,
+					"file": "/media/douglas/B056-729D/seplugins/brightpad/config_brightpad.txt",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 215,
+						"buffer_size": 184,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								215,
-								215
+								38,
+								38
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Deviot (Arduino IDE)/deviot.sublime-syntax"
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
